@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT cristianoronaldoyopmailcom_289.wsgi:application
